@@ -151,17 +151,17 @@ class Data {
 
   // Icons Skill
   static List<SkillData> skillData = [
-    SkillData(skillLevel: 95, skillName: StringConst.FLUTTER),
-    SkillData(skillLevel: 70, skillName: StringConst.JAVA),
-    SkillData(skillLevel: 78, skillName: StringConst.ANDROID),
-    SkillData(skillLevel: 70, skillName: StringConst.KOTLIN),
-    SkillData(skillLevel: 80, skillName: StringConst.JAVASCRIPT),
-    SkillData(skillLevel: 80, skillName: StringConst.PHP),
-    SkillData(skillLevel: 80, skillName: StringConst.LARAVEL),
-    SkillData(skillLevel: 80, skillName: StringConst.SQL),
-    SkillData(skillLevel: 90, skillName: StringConst.WORDPRESS),
-    SkillData(skillLevel: 80, skillName: StringConst.BOOTSTRAP),
-    SkillData(skillLevel: 80, skillName: StringConst.HTML_CSS),
+    SkillData(skillLevel: 80, skillName: StringConst.FLUTTER),
+    SkillData(skillLevel: 70, skillName: StringConst.PYTHON),
+    SkillData(skillLevel: 60, skillName: StringConst.AWS),
+    SkillData(skillLevel: 55, skillName: StringConst.AZURE),
+    SkillData(skillLevel: 55, skillName: StringConst.GIT),
+    SkillData(skillLevel: 55, skillName: StringConst.JAVASCRIPT),
+    SkillData(skillLevel: 35, skillName: StringConst.DOCKER),
+    SkillData(skillLevel: 30, skillName: StringConst.REACT),
+    SkillData(skillLevel: 25, skillName: StringConst.REACT_NATIVE),
+    SkillData(skillLevel: 25, skillName: StringConst.VUE),
+    SkillData(skillLevel: 25, skillName: StringConst.LATEX),
   ];
 
   static List<SubMenuData> subMenuData = [

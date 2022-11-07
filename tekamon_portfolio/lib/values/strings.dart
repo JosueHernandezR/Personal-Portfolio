@@ -38,16 +38,16 @@ class StringConst {
   static const String INTRO = "Hi, my name is";
   static const String DEV_NAME = "Josué Hernández";
   static const String PUNCH_LINE = "I build things with flutter";
-  static const String SPECIALITY = "FLUTTER DEV";
+  static const String SPECIALITY = "Flutter Dev";
   static const String DESIGNED_IN = "Made in México with ";
   static const String DESIGNED_BY = "Designed by Pavel G. & David Legend";
   static const String BUILT_BY = "Built by Josué Hernández ";
 
   static const String ABOUT_DEV_TEXT =
-      "I'm a software engineer based in Mexico, specializing in building high quality mobile with a strong passion for opensource work. My goal is to always build pixel perfect high performant applications that provides users with a rich experience.";
+      "I am a Systems Engineer, passionate about what I do, I am always looking for ways to learn something new and apply it to real problems. I have experience leading teams, with mobile applications and cloud experience.";
 
   static const String EDUCATION_TEXT =
-      "I am self taught programmer who graduated from Kwame Nkrumah Univeristy of Science Technology with a degree in Agricultural Engineering. I love learning and writing computer programs.";
+      "I am a Computer Systems Engineer graduated from the ESCOM of the IPN. I love learning the newest in technology.";
   //Form Hint Texts
   static const String NAME_HINT_TEXT = "Name";
   static const String PHONE_HINT_TEXT = "Phone (Optional)";
@@ -58,16 +58,17 @@ class StringConst {
 
   //Skills
   static const String FLUTTER = "Flutter";
-  static const String JAVA = "Java";
-  static const String ANDROID = "Android";
-  static const String KOTLIN = "Kotlin";
+  static const String DART = "Dart";
+  static const String PYTHON = "Python";
+  static const String AWS = "AWS";
+  static const String AZURE = "Azure";
+  static const String GIT = "Git";
   static const String JAVASCRIPT = "Javascript";
-  static const String PHP = "PHP";
-  static const String LARAVEL = "Laravel";
-  static const String SQL = "SQL";
-  static const String WORDPRESS = "Wordpress";
-  static const String BOOTSTRAP = "Bootstrap";
-  static const String HTML_CSS = "HTML/CSS";
+  static const String DOCKER = "Docker";
+  static const String REACT = "React";
+  static const String REACT_NATIVE = "React Native";
+  static const String VUE = "Vue";
+  static const String LATEX = "Latex";
 
   //routes
   static const String HOME_PAGE = "/";
@@ -106,7 +107,6 @@ class StringConst {
   //AwardedBy
   static const String GOOGLE = "Google";
   static const String UDACITY = "Udacity";
-  static const String AZURE = "Azure";
 
   //CertificationType
   static const String ASSOCIATE_ANDROID_DEV = "Associate Android Developer";
