@@ -2,7 +2,7 @@ part of values;
 
 class StringConst {
   //strings
-  static const String APP_NAME = "Aerium";
+  static const String APP_NAME = "tekamon_portfolio";
   static const String APP_TITLE = "Josué Hernández Portfolio";
   static const String SITE_URL = "https://josuehernadez.dev";
 
@@ -40,7 +40,7 @@ class StringConst {
   static const String PUNCH_LINE = "I build things with flutter";
   static const String SPECIALITY = "FLUTTER DEV";
   static const String DESIGNED_IN = "Made in México with ";
-  static const String DESIGNED_BY = "Designed by Pavel G. ";
+  static const String DESIGNED_BY = "Designed by Pavel G. & David Legend";
   static const String BUILT_BY = "Built by Josué Hernández ";
 
   static const String ABOUT_DEV_TEXT =
@@ -106,6 +106,7 @@ class StringConst {
   //AwardedBy
   static const String GOOGLE = "Google";
   static const String UDACITY = "Udacity";
+  static const String AZURE = "Azure";
 
   //CertificationType
   static const String ASSOCIATE_ANDROID_DEV = "Associate Android Developer";
@@ -113,18 +114,33 @@ class StringConst {
   static const String ANDROID_BASICS = "Android Basics";
 
   //Experience
-  static const String CURRENT_MONTH_YEAR = "May 2020 - Current";
-  static const String STARTED_MONTH_YEAR = "May 2017";
+  static const String CURRENT_MONTH_YEAR = "Dic 2021 - Current";
+  static const String STARTED_MONTH_YEAR = "May 2019";
 
-  static const String COMPANY_1 = "";
-  static const String COMPANY_1_URL = "";
-  static const String POSITION_1 = "";
-  static const String COMPANY_1_ROLE_1 = "";
-  static const String COMPANY_1_ROLE_2 = "";
-  static const String COMPANY_1_ROLE_3 = "";
-  static const String LOCATION_1 = "";
-  static const String DURATION_1 = "";
+  static const String COMPANY_1 = "Geek Inc";
+  static const String COMPANY_1_URL = "https://www.geekinc.mx";
+  static const String POSITION_1 = "Mobile Developer";
+  static const String COMPANY_1_ROLE_1 =
+      "Led the development of a mobile app in Flutter, GraphQL and AWS.";
+  static const String COMPANY_1_ROLE_2 =
+      "Helped design the application architecture.";
+  static const String COMPANY_1_ROLE_3 =
+      "Make connections with microservices and manage states with BLoC";
+  static const String COMPANY_1_ROLE_4 =
+      "I coordinated the deployment to various Google and iOS stores.";
+  static const String COMPANY_1_ROLE_5 =
+      "Negotiated and took requirements directly with the client.";
+  static const String LOCATION_1 = "Mexico City";
+  static const String DURATION_1 = "Dic 2021 - Current";
 
+  static const String COMPANY_2 = "ESCOM";
+  static const String COMPANY_2_URL = "";
+  static const String POSITION_2 = "Mobile Developer";
+  static const String COMPANY_2_ROLE_1 =
+      "I developed a mobile application based on Flutter to keep track of the glucose measurements that the user recorded through a glucometer connected to the mobile device or manually recorded using Firebase as a backend.";
+
+  static const String LOCATION_2 = "Mexico City";
+  static const String DURATION_2 = "2020 - 2021";
   //Portfolio, Projects
   static const String LOGIN_CATALOG = "Login Catalog";
   static const String LOGIN_CATALOG_SUBTITLE =
@@ -134,6 +150,8 @@ class StringConst {
   static const String LOGIN_CATALOG_GITHUB_URL =
       "https://github.com/david-legend/login_catalog";
 
+  static const String CIRCE = "Circe";
+  static const String PROXIMA_NOVA = "ProximaNova";
   //API
   static const String BASE_URL =
       "https://asqbx1u5bg.execute-api.us-east-1.amazonaws.com/production/";

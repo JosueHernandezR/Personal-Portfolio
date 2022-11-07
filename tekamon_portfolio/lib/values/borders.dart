@@ -1,7 +1,7 @@
 part of values;
 
 class Borders {
-  static const BorderSide defaultPrimaryBorder =
+  static BorderSide defaultPrimaryBorder =
       BorderSide(width: Sizes.WIDTH_0, style: BorderStyle.none);
 
   static const InputBorder defaultInputBorder = OutlineInputBorder(
